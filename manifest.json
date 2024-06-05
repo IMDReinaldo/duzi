@@ -1,0 +1,24 @@
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "duzi",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "duzi",
+  "start_url": "https://hmlgapp.imxr.io/UnityBuilds/PWA/index.html",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "TemplateData/favicon.ico"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "id": "duzi",
+  "description": "duzi mades duzi",
+  "categories": [
+    "games"
+  ]
+}
